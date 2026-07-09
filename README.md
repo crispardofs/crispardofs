@@ -2,54 +2,61 @@
 
 **Software Engineer | Backend Developer | Process Automation**
 
-Computer Science Engineer from Chile with professional experience in software development and business process automation.
-
-My experience includes backend and full stack development, REST API implementation, database design and enterprise automation using Python, FastAPI, Flutter and Microsoft Power Platform.
+Computer Science Engineer with professional experience in software development and business process automation. Experience developing backend and full stack applications, designing relational databases, integrating systems through REST APIs and automating business processes using Python and Microsoft Power Platform.
 
 ---
 
-## Tech Stack
+## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flutter,postgres,docker,git,github,vscode,js,html,css,dart" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flutter,dart,postgres,docker,git,github,js,html,css,vscode" />
 </p>
 
-**Other technologies**
+**Also experienced with**
 
 - Power Automate
 - Microsoft 365
 - REST APIs
 - SQL
+- Agile Methodologies (Scrum & Kanban)
 
 ---
 
 ## Featured Projects
 
-### 🚀 Humboldt Planning
+### Humboldt Planning
 
-Multiplatform application developed as an engineering thesis for managing church music ministries.
+Multi-platform application developed as an engineering thesis to manage church music ministries.
 
-**Tech:** Flutter • FastAPI • PostgreSQL • REST API
+**Stack**
 
-➡️ Repository
+Flutter • FastAPI • PostgreSQL • REST API
+
+➡️ **[View Repository](https://github.com/crispardofs/humboldt-planning)**
 
 ---
 
-### 🎵 Music Key Detector
+### Music Key Detector
 
 Mobile application for automatic musical key detection from audio files.
 
-**Tech:** Flutter • Python
+**Stack**
 
-➡️ Repository
+Flutter • Python
+
+➡️ **[View Repository](https://github.com/crispardofs/music-key-detector)**
 
 ---
 
-### ⚙️ Business Process Automation
+### Restaurant Management System
 
-Python and Microsoft Power Platform automation solutions for business workflows.
+Web application developed as a university project for restaurant administration.
 
-*(Coming soon)*
+**Stack**
+
+Django • PostgreSQL
+
+➡️ **[View Repository](https://github.com/crispardofs/restaurant-management-system)**
 
 ---
 
@@ -58,5 +65,3 @@ Python and Microsoft Power Platform automation solutions for business workflows.
 📧 cristobal.pardo10@gmail.com
 
 💼 LinkedIn
-
-📄 Resume
