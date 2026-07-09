@@ -48,20 +48,8 @@ Flutter • Python
 
 ---
 
-### Restaurant Management System
-
-Web application developed as a university project for restaurant administration.
-
-**Stack**
-
-Django • PostgreSQL
-
-➡️ **[View Repository](https://github.com/crispardofs/restaurant-management-system)**
-
----
-
 ## Contact
 
 📧 cristobal.pardo10@gmail.com
 
-💼 LinkedIn
+💼 **[LinkedIn](www.linkedin.com/in/cristóbal-efraín-pardo-flores)**
