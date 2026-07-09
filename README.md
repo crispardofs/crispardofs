@@ -36,7 +36,7 @@ Flutter • FastAPI • PostgreSQL • REST API
 
 ---
 
-### Music Key Detector
+### TuneFinder
 
 Mobile application for automatic musical key detection from audio files.
 
