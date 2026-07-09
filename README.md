@@ -1,87 +1,59 @@
-# Hi there! 👋 I'm Cristóbal Pardo
+# Cristóbal Pardo
 
-**Software Engineer | Backend Developer | Process Automation | Python**
+**Software Engineer | Backend Developer | Process Automation**
 
-I'm a Computer Science Engineer from Chile passionate about building software that solves real-world problems.
+Computer Science Engineer from Chile with professional experience in software development and business process automation.
 
-My main interests are backend development, business process automation, REST APIs and scalable software architecture. I enjoy designing systems that improve operational efficiency through technology.
+My experience includes backend and full stack development, REST API implementation, database design and enterprise automation using Python, FastAPI, Flutter and Microsoft Power Platform.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flutter,postgres,docker,git,github,vscode,js,html,css,dart" />
+</p>
 
-- Python
-- SQL
-- Dart
-- JavaScript
-- HTML
-- CSS
+**Other technologies**
 
-### Frameworks & Technologies
-
-- FastAPI
-- Django
-- Flutter
-- PostgreSQL
-- REST APIs
-- Docker
-- Git
 - Power Automate
 - Microsoft 365
+- REST APIs
+- SQL
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
-### Humboldt Planning
+### 🚀 Humboldt Planning
 
-Multi-platform application developed as my engineering thesis for managing music ministries.
+Multiplatform application developed as an engineering thesis for managing church music ministries.
 
-**Tech Stack**
+**Tech:** Flutter • FastAPI • PostgreSQL • REST API
 
-- Flutter
-- FastAPI
-- PostgreSQL
-- REST API
-
-➡️ Repository *(link)*
+➡️ Repository
 
 ---
 
-### Music Key Detector
+### 🎵 Music Key Detector
 
-Mobile application capable of detecting the musical key of audio files to assist musicians during rehearsals and performances.
+Mobile application for automatic musical key detection from audio files.
 
-**Tech Stack**
+**Tech:** Flutter • Python
 
-- Flutter
-- Django
-- PostgreSQL
-
-➡️ Repository *(link)*
+➡️ Repository
 
 ---
 
-### Business Process Automation
+### ⚙️ Business Process Automation
 
-Automation solutions developed with Python and Microsoft Power Platform for administrative workflows and business operations.
+Python and Microsoft Power Platform automation solutions for business workflows.
 
 *(Coming soon)*
 
 ---
 
-## 🌱 Currently learning
-
-- Docker
-- Cloud Technologies
-- Software Architecture
-- CI/CD
-
----
-
-## 📫 Contact
+## Contact
 
 📧 cristobal.pardo10@gmail.com
 
