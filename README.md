@@ -32,7 +32,7 @@ Multi-platform application developed as an engineering thesis to manage church m
 
 Flutter • FastAPI • PostgreSQL • REST API
 
-➡️ **[View Repository](https://github.com/crispardofs/humboldt-planning)**
+**[View Repository](https://github.com/crispardofs/humboldt-planning)**
 
 ---
 
@@ -44,12 +44,12 @@ Mobile application for automatic musical key detection from audio files.
 
 Flutter • Python
 
-➡️ **[View Repository](https://github.com/crispardofs/music-key-detector)**
+**[View Repository](https://github.com/crispardofs/TuneFinder)**
 
 ---
 
 ## Contact
 
-📧 cristobal.pardo10@gmail.com
+cristobal.pardo10@gmail.com
 
-💼 **[LinkedIn](www.linkedin.com/in/cristóbal-efraín-pardo-flores)**
+**[LinkedIn](www.linkedin.com/in/cristobalpardo)**
