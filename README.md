@@ -52,4 +52,4 @@ Flutter • Python
 
 cristobal.pardo10@gmail.com
 
-**[LinkedIn]([www.linkedin.com/in/cristobalpardo](https://www.linkedin.com/in/cristobalpardo/))**
+**[LinkedIn](https://www.linkedin.com/in/cristobalpardo/)**
